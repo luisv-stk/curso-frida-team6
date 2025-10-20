@@ -1,0 +1,12 @@
+body, html {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+.pagination .page-link {
+  color: #0276ff;
+}
+
+.pagination .page-link:hover {
+  background-color: #f5f9fd;
+}
