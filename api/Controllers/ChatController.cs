@@ -16,7 +16,7 @@ namespace MyApp.Namespace
         [HttpGet("version")]
         public ActionResult<string> GetApiVersion()
         {
-            return "1.0";
+            return "1.0.0";
         }
     }
 }

@@ -7,7 +7,7 @@
       "type": "process",
       "args": [
         "build",
-        "${workspaceFolder}/app_tp_net.csproj",
+        "${workspaceFolder}/api.csproj",
         "/property:GenerateFullPaths=true",
         "/consoleloggerparameters:NoSummary",
         "-nowarn:CS0168,CS0219,CS8602,CS8604,CS8618"
@@ -20,7 +20,7 @@
       "type": "process",
       "args": [
         "publish",
-        "${workspaceFolder}/app_tp_net.csproj",
+        "${workspaceFolder}/api.csproj",
         "/property:GenerateFullPaths=true",
         "/consoleloggerparameters:NoSummary"
       ],
